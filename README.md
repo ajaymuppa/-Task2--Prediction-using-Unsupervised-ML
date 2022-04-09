@@ -1,2 +1,2 @@
-# Task2--Prediction-using-Unsupervised-ML
+# Prediction-using-Unsupervised-ML
 Predict the optimum number of clusters and represent it visually.
